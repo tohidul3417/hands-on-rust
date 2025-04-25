@@ -4,7 +4,7 @@ A curated collection of hands-on Rust exercises focused on mastering the languag
 
 ## 🚀 Purpose
 
-This repository serves as a personal learning resource to solidify my Rust programming skills.
+This repository serves as a personal space to practice different Rust programming topics.
 ## 🛠️ Usage
 
 Run any problem file using the following command:
